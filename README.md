@@ -1,15 +1,13 @@
 # DevPortfolio
 
-DevPortfolio is my personal portfolio website designed to showcase my projects, skills, and professional experience. The site is hosted on GitHub Pages and built with PHP, JavaScript, HTML, and CSS.
+DevPortfolio is my personal portfolio website designed to showcase my projects, skills, and professional experience. The site is built with PHP, JavaScript, HTML, and CSS.
+The Website is not yet finished, I am planning on hosting it on Heroku or a similar platform as soon as it is ready for showcase.
 
 ## Highlights
 - Project showcases with detailed descriptions and links
 - About Me section highlighting my background and skills
-- Contact form for potential clients or employers
+- Contact information for potential clients or employers
 - Responsive design for optimal viewing on any device
-
-## Viewing the Site
-You can explore the live site at https://imruki.github.io/DevPortfolio.
 
 ## Local Development
 To run the site locally with WAMP:
