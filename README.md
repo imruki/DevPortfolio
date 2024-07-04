@@ -12,7 +12,7 @@ The Website is not yet finished, I am planning on hosting it on Heroku or a simi
 - Responsive design for optimal viewing on any device
 
 ## Screenshot
-<img src="./src/assets/img/screenshot2.JPG" />
+<img src="./src/assets/img/screenshot2.jpg" />
 
 ## Local Development
 To run the site locally with WAMP:
