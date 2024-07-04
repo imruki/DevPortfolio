@@ -1,3 +1,5 @@
+<img src="./src/assets/img/screenshot1.JPG" />
+
 # DevPortfolio
 
 DevPortfolio is my personal portfolio website designed to showcase my projects, skills, and professional experience. The site is built with PHP, JavaScript, HTML, and CSS.
@@ -8,6 +10,9 @@ The Website is not yet finished, I am planning on hosting it on Heroku or a simi
 - About Me section highlighting my background and skills
 - Contact information for potential clients or employers
 - Responsive design for optimal viewing on any device
+
+## Screenshot
+<img src="./src/assets/img/screenshot2.JPG" />
 
 ## Local Development
 To run the site locally with WAMP:
